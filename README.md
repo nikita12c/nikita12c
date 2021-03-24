@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=nikita12c&show_icons=true alt=Nikita />
+	<img src=https://github-readme-stats.vercel.app/api?username=nikita12c&show_icons=true alt=Nikita/>
 </p>
