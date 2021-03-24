@@ -17,6 +17,6 @@ I'm Nikita. I'm a Full Stack Web Developer and passionate about helping open-sou
 ❤️ Connect and Follow me on Linkedin
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=nikita12c&show_icons=true alt=Nikita/>
-	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=nikita12c alt=Nikita/>
+	<img align="left" src=https://github-readme-stats.vercel.app/api?username=nikita12c&show_icons=true alt=Nikita/>
+	<img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=nikita12c alt=Nikita/>
 </p>
