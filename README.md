@@ -12,7 +12,7 @@ I'm Nikita. I'm a Full Stack Web Developer and passionate about helping open-sou
 
 📫 How to reach me:
 
-`Linkedin` - [MyLinkedin](https://www.linkedin.com/in/nikita-chaudhari-27a678193/) <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="nikita12c" height="20" width="20" />
+[MyLinkedin](https://www.linkedin.com/in/nikita-chaudhari-27a678193/) <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="nikita12c" height="20" width="20" />
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nikita12cg&label=Profile%20views&color=0e75b6&style=flat" alt="nikita12c" /> </p>
 
