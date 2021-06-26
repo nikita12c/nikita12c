@@ -23,5 +23,5 @@ I'm Nikita. I'm a Full Stack Web Developer and passionate about helping open-sou
 <!-- 	<img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=nikita12c alt=Nikita/> -->
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikita12c&" alt="nikita12c" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikita12c&" alt="nikita12c" /></p> -->
 
