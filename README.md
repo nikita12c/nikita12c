@@ -3,8 +3,7 @@
 <a href="https://github.com/nikita12c" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Nikita Chaudhari" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/nikita-chaudhari-27a678193/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nikita Chaudhari" height="20" width="20" /></a>
 </p>
-
-I'm Nikita. I'm a Tech enthusiast and passionate about building projects on different trending technologies.I am always open to collaborating on projects and innovative/disruptive ideas and supporting community.
+I'm a Tech enthusiast and passionate about building projects on different trending technologies and supporting communities.I am always open to collaborate on projects and innovative/disruptive ideas.
 
 🔭 I’m currently working as Full Stack Developer at JSP infotech.
 
