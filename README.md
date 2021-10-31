@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/nikita-chaudhari-27a678193/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nikita Chaudhari" height="20" width="20" /></a>
 </p>
 
-I'm Nikita. I'm a Full Stack Web Developer and passionate about helping open-source projects, building projects on different trending technologies, and supporting community.
+I'm Nikita. I'm a Tech enthusiast and passionate about building projects on different trending technologies.I am always open to collaborating on projects and innovative/disruptive ideas and supporting community.
 
 🔭 I’m currently working as Full Stack Developer at JSP infotech.
 
