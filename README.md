@@ -5,9 +5,9 @@
 </p>
 I'm a Tech enthusiast and passionate about building projects on different trending technologies and supporting communities.I am always open to collaborate on projects and innovative/disruptive ideas.
 
-🔭 I’m currently working as Full Stack Developer at JSP infotech.
+🔭 I’m currently working as Software Developer at TCS.
 
-👯 I’m looking to collaborate on ReactJS projects.
+👯 I’m looking to collaborate on AI projects.
 
 📫 How to reach me:
 
