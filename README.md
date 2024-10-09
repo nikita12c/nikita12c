@@ -1,4 +1,6 @@
 <p align="center"> <h1 align="center"> Nikita Chaudhari </h1> </p>
+[![An image of @nikita12c's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikita12c)](https://holopin.io/@nikita12c)
+
 <p align="center">
 <a href="https://github.com/nikita12c" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Nikita Chaudhari" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/nikita-chaudhari-27a678193/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nikita Chaudhari" height="20" width="20" /></a>
