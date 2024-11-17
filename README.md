@@ -22,7 +22,7 @@ I'm a Tech enthusiast and passionate about building projects on different trendi
 <!-- 	<img src=https://github-readme-stats.vercel.app/api?username=nikita12c&show_icons=true alt=Nikita/> -->
 <!-- 	<img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=nikita12c alt=Nikita/> -->
 </p>
-<a align="center" href="https://holopin.io/@nikita12c">My holopin badge</a>
+[![An image of @nikita12c's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikita12c)](https://holopin.io/@nikita12c)
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikita12c&" alt="nikita12c" /></p> -->
 
